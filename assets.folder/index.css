@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,400;1,400&family=Poppins:wght@200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700&display=swap');
 
 *{
-    padding: o;
+    padding: 0;
     margin: 0;
     box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    
     
 }
 
@@ -11,12 +15,78 @@
     --tenne-tawny: #d65108;
     --tenne-tawny-dark: #b54507;
 }
+
+
+
 body{
     font-weight: 300;
     font: size 1.05rem;
     line-height: 1.6;
     font-family: "Poppins", sans-serif;
 }
+nav{
+    background: darkgoldenrod;
+    height: 80px;
+    width: 100%;
+    border-radius: 1rem;
+}
+label.logo{
+    color: #fff;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a{
+    color: #fff;
+    font: size 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+a.active,a:hover{
+    background: #2E1114;
+    transition: 3s;
+}
+
+
+
+header .checkbtn{
+    font-size: 30px;
+    color: #fff;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+
+}
+#check{
+    display: none;
+}
+
+    #header nav ul li a{
+        font-size: 16px;
+    }
+ 
+
+    .checkbtn{
+        display: block;
+    }
+
+
+
+
+  
 /* */
 .btn{
     font-family: inherit;
@@ -70,13 +140,13 @@ body{
     border-bottom-left-radius: 2rem;
 }
 .search-content::placeholder{
-    color: rgb(241, 209, 25);
+    color: #2E1114;
 }
 .search-btn{
     width: 55px;
     height: 55px;
     font-size: 1.8rem;
-    background: goldenrod;
+    background: #2E1114;
     color: #fff;
     border: none;
     border-top-right-radius: 2rem;
@@ -88,7 +158,7 @@ body{
     -o-transition: all 0.4s linear;
 }
 .search-btn:hover{
-    background: darkred;
+    background: #ADADAD;
 }
 .meal-result{
     margin-top: 4rem;
