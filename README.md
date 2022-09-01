@@ -11,6 +11,14 @@ An online Website API that fetches information from Server about Recipe Ingredie
 Landing page 
 
 ##Problem Statement
+The proposed system is an online food Recipe system that enables ease for customers to overcomes the disadvantages of the traditional queueing system. It is a medium to Check online food Recipe hassle-free from restaurants as well as the method of cooking. This system improves the method of taking orders from customers. The online  system sets up a food recipe menu online and customers can easily pick the Recipe as per their wish. 
+
+##API
+https://www.themealdb.com/api.php
+
+#Github Link
+https://github.com/Lucy-okoth/Online-Food-Ordering-System
+
 
 ##Technologies Used
 HTML5 for page restructure
