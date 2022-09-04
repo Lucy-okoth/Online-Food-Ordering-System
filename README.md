@@ -1,10 +1,18 @@
 Author Name: Lucy Agono OKoth
 
-Project Name Food Recipe App
+Project Name 
+Online Food Recipe App
 
-Table Of Contents: Description MVP Problem Statement API Live Link Installation Instructions
+Table Of Contents:
+ Description 
+ MVP 
+ Problem Statement
+  API
+    Live Link 
+  Installation Process
 
-Description An online Website API that fetches information from Server about Recipe Ingredients.You can search your preferred ingredient and get the video recipe by clicking the button .
+Description:
+ An online Website API that fetches information from Server about Recipe Ingredients,takes you to the recipe list and finally get's the recipe video from youtube.You can search your preferred ingredient and get the video recipe by clicking the search button .
 
 MVP Landing page
 
@@ -16,7 +24,10 @@ Live Link:https://lucy-okoth.github.io/Online-Food-Ordering-System/
 
 #Github Link https://github.com/Lucy-okoth/Online-Food-Ordering-System
 
-##Technologies Used HTML5 for page restructure CSS for styling Javascript for adding interacctions and navigationto the recipe Server for data display Vanilla Js Project API
+##Technologies Used: 
+HTML5 for page restructure
+ CSS for styling 
+ Javascript for adding interacctions and navigationto the recipe Server for data display Vanilla Js Project API
 
 ##Program Setup Instructions Accessing the project requires a user to have the following: Any computing device with access to Internet. Reliable Internet connection.
 
