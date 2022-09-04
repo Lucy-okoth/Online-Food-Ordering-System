@@ -37,15 +37,18 @@ label.logo{
     padding: 0 100px;
     font-weight: bold;
 }
+
 nav ul{
     float: right;
     margin-right: 20px;
 }
+
 nav ul li{
     display: inline-block;
     line-height: 80px;
     margin: 0 5px;
 }
+
 nav ul li a{
     color: #fff;
     font: size 17px;
@@ -53,11 +56,11 @@ nav ul li a{
     border-radius: 3px;
     text-transform: uppercase;
 }
+
 a.active,a:hover{
     background: #2E1114;
     transition: 1s;
 }
-
 
 
 header .checkbtn{
