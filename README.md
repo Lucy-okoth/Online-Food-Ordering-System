@@ -20,9 +20,9 @@ Problem Statement The proposed system is an online food Recipe system that enabl
 
 ##API https://www.themealdb.com/api.php
 
-Live Link:https://lucy-okoth.github.io/Online-Food-Ordering-System/
+Live Link:https://lucy-okoth.github.io/Online-Food-recipe/
 
-#Github Link https://github.com/Lucy-okoth/Online-Food-Ordering-System
+#Github Link https://github.com/Lucy-okoth/Online-Food-recipe
 
 ##Technologies Used: 
 HTML5 for page restructure
@@ -33,9 +33,9 @@ HTML5 for page restructure
 
 Clone the site and run it on your machine using the command below on your terminal and then run it
 
-git clone git@github.com:Lucy-okoth/Online-Food-Ordering-System.git Github Pages
+git clone git@github.com:Lucy-okoth/Online-Food-recipe.git Github Pages
 
-Online-Food-Ordering-System
+Online-Food-recipe-system
 
 Copyright (c) 2022, Lucy-okoth. All rights reserved. This software is licensed under the MIT licensed Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
