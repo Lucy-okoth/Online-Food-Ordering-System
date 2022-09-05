@@ -6,6 +6,10 @@ Table Of Contents: Description MVP Problem Statement API Live Link Installation 
 
 Description An online Website API that fetches information from Server about Recipe Ingredients.You can search your preferred ingredient and get the video recipe by clicking the button .
 
+Instructions of how to run the application:
+Once in th landing page,you'll type the kind of recipe you want for example chicken in the search box. YouThe recipe will be fetched from the server and a  list of chicken ingredients will be returned. From the list of chicken ingredients,you can also watch the recipe video whose information is fetched from the server,just click on the watch video and the video will be shown.
+Finally ,this application has accomplished effective use of media queries therefore can fit any device.
+
 MVP Landing page
 
 Problem Statement The proposed system is an online food Recipe system that enables ease for customers to overcomes the disadvantages of the traditional queueing system. It is a medium to Check online food Recipe hassle-free from restaurants as well as the method of cooking. This system improves the method of taking orders from customers. The online system sets up a food recipe menu online and customers can easily pick the Recipe as per their wish.
