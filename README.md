@@ -15,6 +15,8 @@ Description:
  An online Website API that fetches information from Server about Recipe Ingredients,takes you to the recipe list and finally get's the recipe video from youtube.You can search your preferred ingredient and get the video recipe by clicking the search button .
 
  Instructions of how to run the application:
+
+ 
 Once in th landing page,you'll type the kind of recipe you want for example chicken in the search box. YouThe recipe will be fetched from the server and a  list of chicken ingredients will be returned. From the list of chicken ingredients,you can also watch the recipe video whose information is fetched from the server,just click on the watch video and the video will be shown.
 Finally ,this application has accomplished effective use of media queries therefore can fit any device.
 
