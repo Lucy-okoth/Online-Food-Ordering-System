@@ -2,17 +2,25 @@ Author Name: Lucy Agono OKoth
 
 Project Name Food Recipe App
 
-Table Of Contents: Description MVP Problem Statement API Live Link Installation Instructions
+##Table Of Contents: 
+Description 
+MVP 
+Problem Statement 
+API 
+Live Link 
+Installation Instructions
 
-Description An online Website API that fetches information from Server about Recipe Ingredients.You can search your preferred ingredient and get the video recipe by clicking the button .
+##Description
+ An online Website API that fetches information from Server about Recipe Ingredients.You can search your preferred ingredient and get the video recipe by clicking the button .
 
 Instructions of how to run the application:
-Once in th landing page,you'll type the kind of recipe you want for example chicken in the search box. YouThe recipe will be fetched from the server and a  list of chicken ingredients will be returned. From the list of chicken ingredients,you can also watch the recipe video whose information is fetched from the server,just click on the watch video and the video will be shown.
+Once in th landing page,you'll type the kind of recipe you want for example chicken in the search box. The recipe will be fetched from the server and a  list of chicken ingredients will be returned. From the list of chicken ingredients,you can also watch the recipe video whose information is fetched from the server,just click on the watch video and the video will be shown.
 Finally ,this application has accomplished effective use of media queries therefore can fit any device.
 
-MVP Landing page
+##MVP Landing page
 
-Problem Statement The proposed system is an online food Recipe system that enables ease for customers to overcomes the disadvantages of the traditional queueing system. It is a medium to Check online food Recipe hassle-free from restaurants as well as the method of cooking. This system improves the method of taking orders from customers. The online system sets up a food recipe menu online and customers can easily pick the Recipe as per their wish.
+##Problem Statement 
+The proposed system is an online food Recipe system that enables ease for customers to overcomes the disadvantages of the traditional queueing system. It is a medium to Check online food Recipe hassle-free from restaurants as well as the method of cooking. This system improves the method of taking orders from customers. The online system sets up a food recipe menu online and customers can easily pick the Recipe as per their wish.
 
 ##API https://www.themealdb.com/api.php
 
@@ -22,7 +30,8 @@ Live Link:https://github.com/Lucy-okoth/Online-Food-recipe/
 
 ##Technologies Used
  HTML5 for page restructure CSS for styling
-  Javascript for adding interacctions and navigationto the recipe Server for data display Vanilla Js Project API
+  Javascript for adding interactions and navigation to the recipe Server for data display 
+  Vanilla Js Project API
 
 ##Program Setup Instructions
  Accessing the project requires a user to have the following: Any computing device with access to Internet. Reliable Internet connection.
