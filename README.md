@@ -34,7 +34,8 @@ HTML5 for page restructure
  CSS for styling 
  Javascript for adding interacctions and navigationto the recipe Server for data display Vanilla Js Project API
 
-##Program Setup Instructions Accessing the project requires a user to have the following: Any computing device with access to Internet. Reliable Internet connection.
+##Program Setup Instructions
+ Accessing the project requires a user to have the following: Any computing device with access to Internet. Reliable Internet connection.
 
 Clone the site and run it on your machine using the command below on your terminal and then run it
 
@@ -50,3 +51,4 @@ Copyright (c) 2022, Lucy-okoth. All rights reserved. This software is licensed u
 Live Demo Video Link:
 
 [Screencast from 05-09-2022  7:15:57 WB.webm](https://user-images.githubusercontent.com/108528356/188488256-85caa9b7-fa6b-45d7-8798-b2dce0725aea.webm)
+
